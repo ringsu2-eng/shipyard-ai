@@ -1,0 +1,6 @@
+{
+  "name": "qc-kit",
+  "description": "주간 검사기록 집계-감사-회의 문장 스킬, 에이전트 3개, data/ 원본 보호 훅",
+  "version": "0.1.0",
+  "author": { "name": "MS K" }
+}
